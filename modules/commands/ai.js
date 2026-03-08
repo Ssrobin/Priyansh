@@ -129,7 +129,7 @@ module.exports = {
 
     try {
       const aiResponse = await getAiReply(senderID, promptText);
-      const reply = `🤖 ${aiResponse}`;
+      const reply = `- ${aiResponse}`;
 
       api.sendMessage(reply, threadID, (err, info) => {
         if (err) return console.error("AI reply error:", err);
