@@ -1,15 +1,15 @@
 {
   "mongoURI": "mongodb+srv://saniashah123098_db_user:KXKo0Ig8WSehPdeX@cluster0.ptcitic.mongodb.net/?appName=Cluster0",
-  "ownerID": "61572486117628",
+  "ownerID": "61595259722689",
   "adminIDs": [
-    "61572486117628",
-    "61577226483042"
+    "61595259722689",
+    "61595259722689"
   ],
   "supportIDs": [
-    "61572486117628",
+    "61595259722689",
     "SUPPORT_ID_2"
   ],
-  "adminInboxThreadID": "61572486117628",
+  "adminInboxThreadID": "61595259722689",
   "prefix": "/",
   "fcaOptions": {
     "forceLogin": false,
